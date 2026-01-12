@@ -1,2 +1,3 @@
 .venv
-codigo.py
+modulo5/*/codigo.py
+__pycache__
