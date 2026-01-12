@@ -1,0 +1,7 @@
+Você foi contratado para criar um sistema simples 
+para uma locadora de veículos. 
+O sistema deve permitir criar carros, 
+aplicar descontos no aluguel e 
+exibir relatórios.
+
+
